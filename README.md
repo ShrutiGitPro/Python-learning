@@ -2,7 +2,7 @@
 "My Python learning journey from beginner to advanced."
 
 
-Phase 1: Python Fundamentals (What you're doing now)
+Phase 1: Python Fundamentals 
 
 1. print()
 2. Comments
